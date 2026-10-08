@@ -1,6 +1,6 @@
 opencv-python
 matplotlib
-scikit-image opencv-contrib-python PyWavelets math os pathlib
+scikit-image
 numpy
 pandas
 PyWavelets
