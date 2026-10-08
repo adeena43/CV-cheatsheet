@@ -1,5 +1,5 @@
 conda create -n cv python=3.11
 conda activate cv
-python -m pip install opencv-python matplotlib numpy pandas    
+python -m pip install opencv-python matplotlib numpy pandas scikit-image opencv-contrib-python PyWavelets math os pathlib
 python -m pip install ipykernel
 python -m ipykernel install --user --name cv --display-name "Python (cv)"   
