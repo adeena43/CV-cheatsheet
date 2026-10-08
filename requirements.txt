@@ -1,0 +1,11 @@
+opencv-python
+matplotlib
+scikit-image opencv-contrib-python PyWavelets math os pathlib
+numpy
+pandas
+PyWavelets
+opencv-contrib-python
+pathlib
+scipy
+math
+os
